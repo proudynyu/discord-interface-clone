@@ -8,6 +8,6 @@ Make with:
 
 - Styled-Components
 
-Link: ![discord-interface](https://priceless-carson-af2f80.netlify.app/)
+Link: [discord-interface](https://priceless-carson-af2f80.netlify.app/)
 
 ![Discod-Interface](https://github.com/proudynyu/discord-interface-clone/tree/master/src/assets/discord-interface.png)
