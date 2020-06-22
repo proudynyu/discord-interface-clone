@@ -10,4 +10,4 @@ Make with:
 
 Link: [discord-interface](https://priceless-carson-af2f80.netlify.app/)
 
-![Discod-Interface](https://github.com/proudynyu/blob/discord-interface-clone/tree/master/public/discord-interface.png)
+![Discord-Interface](https://github.com/proudynyu/blob/discord-interface-clone/blob/master/public/discord-interface.png)
